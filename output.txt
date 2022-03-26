@@ -1,0 +1,455 @@
+=====Read URL data=====
+{
+    "results": [
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "miss",
+                    "first": "rose",
+                    "last": "robinson"
+                },
+                "location": {
+                    "street": "7595 portsmouth drive",
+                    "city": "gisborne",
+                    "state": "west coast",
+                    "zip": 25552
+                },
+                "email": "rose.robinson@example.com",
+                "username": "bigduck753",
+                "password": "hottie",
+                "salt": "DB9pnvxc",
+                "md5": "63bf51b5501d40acd678a4e9883edbb0",
+                "sha1": "e286c3d943ae313949181b22ce4516d7bce62ec9",
+                "sha256": "dd3abc54641539a678473916cc12f6ab9efa7aa3a47a671f5ff0571b0396125c",
+                "registered": 1391099183,
+                "dob": 888949898,
+                "phone": "(651)-773-4801",
+                "cell": "(215)-899-8881",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/43.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/43.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/43.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "ms",
+                    "first": "evie",
+                    "last": "jones"
+                },
+                "location": {
+                    "street": "5144 deans avenue",
+                    "city": "whanganui",
+                    "state": "marlborough",
+                    "zip": 39796
+                },
+                "email": "evie.jones@example.com",
+                "username": "smallsnake392",
+                "password": "maxmax",
+                "salt": "TkSLBw3X",
+                "md5": "d9048dca2e5ab8a31beb0a82472cfc49",
+                "sha1": "6b336f2219ee03338fa49d487f6fc5b034f7d35f",
+                "sha256": "3167f1c95ea79b58693de3e91a2f266c035de96340f14da084265c9f031b7ce0",
+                "registered": 975915041,
+                "dob": 1206772213,
+                "phone": "(928)-272-0602",
+                "cell": "(646)-195-8441",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/62.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/62.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/62.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "miss",
+                    "first": "elizabeth",
+                    "last": "zhang"
+                },
+                "location": {
+                    "street": "3940 balmoral road",
+                    "city": "napier",
+                    "state": "waikato",
+                    "zip": 68689
+                },
+                "email": "elizabeth.zhang@example.com",
+                "username": "lazymouse790",
+                "password": "colton",
+                "salt": "KLb8Mwu9",
+                "md5": "588d36aee12bbcb080ae347b2aa17b11",
+                "sha1": "58016cbae5e51a8246e39c07958fae5e81f644ef",
+                "sha256": "ed66ee7ecf4f3417f39f52f777600c60bb9011c5c857edd775b79aa198139a2d",
+                "registered": 1062280144,
+                "dob": 366756687,
+                "phone": "(650)-779-2671",
+                "cell": "(214)-691-3969",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/1.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "mrs",
+                    "first": "alice",
+                    "last": "thomas"
+                },
+                "location": {
+                    "street": "7950 tay street",
+                    "city": "whanganui",
+                    "state": "waikato",
+                    "zip": 15477
+                },
+                "email": "alice.thomas@example.com",
+                "username": "beautifulgorilla612",
+                "password": "zack",
+                "salt": "auKBbyFb",
+                "md5": "640d00b1dfac87ba521c403e2cb1efa1",
+                "sha1": "0245c9cd09c737069b3063f8f52db506d0a388c7",
+                "sha256": "d826eccd815fdebdde01787e3ff0d25253a26bc736a056fa539847f473471125",
+                "registered": 1242579989,
+                "dob": 921485956,
+                "phone": "(413)-510-9561",
+                "cell": "(472)-912-4315",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/89.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/89.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/89.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "mrs",
+                    "first": "maia",
+                    "last": "anderson"
+                },
+                "location": {
+                    "street": "6457 botany road",
+                    "city": "tauranga",
+                    "state": "tasman",
+                    "zip": 97209
+                },
+                "email": "maia.anderson@example.com",
+                "username": "brownladybug664",
+                "password": "blanca",
+                "salt": "mEZgZe5G",
+                "md5": "04303f90639b481686259617ee0f915e",
+                "sha1": "586b280eabc6146dc7b4a950b63e32bef0958929",
+                "sha256": "910ee307bad6bdd32a68ff1f8dd696f38e5ead831ee4802bbd0d9e3b5eb6840b",
+                "registered": 1283146323,
+                "dob": 959563413,
+                "phone": "(381)-278-6649",
+                "cell": "(545)-041-4246",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/50.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/50.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/50.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "miss",
+                    "first": "ella",
+                    "last": "singh"
+                },
+                "location": {
+                    "street": "1901 tamaki drive",
+                    "city": "whanganui",
+                    "state": "gisborne",
+                    "zip": 26242
+                },
+                "email": "ella.singh@example.com",
+                "username": "heavybird824",
+                "password": "fantasy",
+                "salt": "ZzivthXL",
+                "md5": "8cadb2b13260bb43e22139a5ad843a08",
+                "sha1": "a857cd1b9a7e45a31800fec082be908eecc3cffb",
+                "sha256": "41c4286068cbec8dcff657669dce842411f83327c827e9ecc64f8e9f12f454fd",
+                "registered": 983054254,
+                "dob": 956774266,
+                "phone": "(009)-820-2100",
+                "cell": "(041)-639-9187",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/75.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/75.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/75.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "ms",
+                    "first": "ariana",
+                    "last": "chen"
+                },
+                "location": {
+                    "street": "1139 kilmore street",
+                    "city": "invercargill",
+                    "state": "gisborne",
+                    "zip": 21701
+                },
+                "email": "ariana.chen@example.com",
+                "username": "blackfrog720",
+                "password": "33333333",
+                "salt": "Wn4jJlSd",
+                "md5": "cbd700a89b7c135aa5f4102cb2c30d63",
+                "sha1": "563c9f7898a5b0dfa05fde06fe25642327ee8388",
+                "sha256": "d08d9fe5155352dcaea8d813230e7100ebd3b0e7010f408d2d0b91b8fbbc84f6",
+                "registered": 1239273245,
+                "dob": 826362498,
+                "phone": "(382)-556-7017",
+                "cell": "(669)-574-7059",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/46.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/46.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "ms",
+                    "first": "indie",
+                    "last": "patel"
+                },
+                "location": {
+                    "street": "9134 manukau road",
+                    "city": "lower hutt",
+                    "state": "southland",
+                    "zip": 59023
+                },
+                "email": "indie.patel@example.com",
+                "username": "orangepanda370",
+                "password": "sandy1",
+                "salt": "kOB1Adcg",
+                "md5": "81c812419086cba1993d8fed5b7aa766",
+                "sha1": "6b93f49707fca8641512311f3811c23bc5188409",
+                "sha256": "84cd5ba8dd7ff46955322927f87f765e29970b29e0735f8f54a3d9e2c8ff8815",
+                "registered": 968584179,
+                "dob": 1408526712,
+                "phone": "(083)-825-4372",
+                "cell": "(968)-161-4749",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/79.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/79.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "jayden",
+                    "last": "robinson"
+                },
+                "location": {
+                    "street": "4935 guyton street",
+                    "city": "porirua",
+                    "state": "taranaki",
+                    "zip": 23404
+                },
+                "email": "jayden.robinson@example.com",
+                "username": "goldentiger762",
+                "password": "ripley",
+                "salt": "nxcz7KU0",
+                "md5": "3312b23045780daafba74d696153a132",
+                "sha1": "30f027ea518716c23ec164210c9d0d34761dde5e",
+                "sha256": "69d9e5d51c0491fc51a51d8826a45cb32265c72577f7c45f8e42cc65b11124b0",
+                "registered": 1176360020,
+                "dob": 1017131160,
+                "phone": "(036)-051-6926",
+                "cell": "(161)-786-5553",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/51.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/51.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/51.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "miss",
+                    "first": "maria",
+                    "last": "smith"
+                },
+                "location": {
+                    "street": "3995 st aubyn street",
+                    "city": "nelson",
+                    "state": "auckland",
+                    "zip": 21938
+                },
+                "email": "maria.smith@example.com",
+                "username": "lazymeercat321",
+                "password": "1967",
+                "salt": "5sPDzsjn",
+                "md5": "8fa06f1e101e6de62a540cbd3326c231",
+                "sha1": "9f9946b8983c980c236fb538127445b6cc549ea5",
+                "sha256": "195203a8838836890903e550814d7f68edd928e4d1ffda1a4bbe3ba5b7e1b2b8",
+                "registered": 918438333,
+                "dob": 630951026,
+                "phone": "(801)-238-1455",
+                "cell": "(260)-472-4091",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/75.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/75.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/75.jpg"
+                }
+            }
+        }
+    ],
+    "nationality": "NZ",
+    "seed": "82309217239ea7730c",
+    "version": "0.8"
+}+-----------+--------------------+------------------+-------+
+|nationality|             results|              seed|version|
++-----------+--------------------+------------------+-------+
+|         NZ|[[[(215)-899-8881...|82309217239ea7730c|    0.8|
++-----------+--------------------+------------------+-------+
+
+root
+ |-- nationality: string (nullable = true)
+ |-- results: array (nullable = true)
+ |    |-- element: struct (containsNull = true)
+ |    |    |-- user: struct (nullable = true)
+ |    |    |    |-- cell: string (nullable = true)
+ |    |    |    |-- dob: long (nullable = true)
+ |    |    |    |-- email: string (nullable = true)
+ |    |    |    |-- gender: string (nullable = true)
+ |    |    |    |-- location: struct (nullable = true)
+ |    |    |    |    |-- city: string (nullable = true)
+ |    |    |    |    |-- state: string (nullable = true)
+ |    |    |    |    |-- street: string (nullable = true)
+ |    |    |    |    |-- zip: long (nullable = true)
+ |    |    |    |-- md5: string (nullable = true)
+ |    |    |    |-- name: struct (nullable = true)
+ |    |    |    |    |-- first: string (nullable = true)
+ |    |    |    |    |-- last: string (nullable = true)
+ |    |    |    |    |-- title: string (nullable = true)
+ |    |    |    |-- password: string (nullable = true)
+ |    |    |    |-- phone: string (nullable = true)
+ |    |    |    |-- picture: struct (nullable = true)
+ |    |    |    |    |-- large: string (nullable = true)
+ |    |    |    |    |-- medium: string (nullable = true)
+ |    |    |    |    |-- thumbnail: string (nullable = true)
+ |    |    |    |-- registered: long (nullable = true)
+ |    |    |    |-- salt: string (nullable = true)
+ |    |    |    |-- sha1: string (nullable = true)
+ |    |    |    |-- sha256: string (nullable = true)
+ |    |    |    |-- username: string (nullable = true)
+ |-- seed: string (nullable = true)
+ |-- version: string (nullable = true)
+
+====Flatten URL JSON data====
++-----------+--------------------+------------------+-------+
+|nationality|             results|              seed|version|
++-----------+--------------------+------------------+-------+
+|         NZ|[[(215)-899-8881,...|82309217239ea7730c|    0.8|
+|         NZ|[[(646)-195-8441,...|82309217239ea7730c|    0.8|
+|         NZ|[[(214)-691-3969,...|82309217239ea7730c|    0.8|
+|         NZ|[[(472)-912-4315,...|82309217239ea7730c|    0.8|
+|         NZ|[[(545)-041-4246,...|82309217239ea7730c|    0.8|
+|         NZ|[[(041)-639-9187,...|82309217239ea7730c|    0.8|
+|         NZ|[[(669)-574-7059,...|82309217239ea7730c|    0.8|
+|         NZ|[[(968)-161-4749,...|82309217239ea7730c|    0.8|
+|         NZ|[[(161)-786-5553,...|82309217239ea7730c|    0.8|
+|         NZ|[[(260)-472-4091,...|82309217239ea7730c|    0.8|
++-----------+--------------------+------------------+-------+
+
+root
+ |-- nationality: string (nullable = true)
+ |-- results: struct (nullable = true)
+ |    |-- user: struct (nullable = true)
+ |    |    |-- cell: string (nullable = true)
+ |    |    |-- dob: long (nullable = true)
+ |    |    |-- email: string (nullable = true)
+ |    |    |-- gender: string (nullable = true)
+ |    |    |-- location: struct (nullable = true)
+ |    |    |    |-- city: string (nullable = true)
+ |    |    |    |-- state: string (nullable = true)
+ |    |    |    |-- street: string (nullable = true)
+ |    |    |    |-- zip: long (nullable = true)
+ |    |    |-- md5: string (nullable = true)
+ |    |    |-- name: struct (nullable = true)
+ |    |    |    |-- first: string (nullable = true)
+ |    |    |    |-- last: string (nullable = true)
+ |    |    |    |-- title: string (nullable = true)
+ |    |    |-- password: string (nullable = true)
+ |    |    |-- phone: string (nullable = true)
+ |    |    |-- picture: struct (nullable = true)
+ |    |    |    |-- large: string (nullable = true)
+ |    |    |    |-- medium: string (nullable = true)
+ |    |    |    |-- thumbnail: string (nullable = true)
+ |    |    |-- registered: long (nullable = true)
+ |    |    |-- salt: string (nullable = true)
+ |    |    |-- sha1: string (nullable = true)
+ |    |    |-- sha256: string (nullable = true)
+ |    |    |-- username: string (nullable = true)
+ |-- seed: string (nullable = true)
+ |-- version: string (nullable = true)
+
++-----------+--------------+----------+------+------------+-----------+--------------------+-----+--------------------+---------+--------+-----+--------+--------------+--------------------+--------------------+--------------------+----------+--------+--------------------+--------------------+-------------------+
+|nationality|          cell|       dob|gender|        city|      state|              street|  zip|                 md5|    first|    last|title|password|         phone|               large|              medium|           thumbnail|registered|    salt|                sha1|              sha256|           username|
++-----------+--------------+----------+------+------------+-----------+--------------------+-----+--------------------+---------+--------+-----+--------+--------------+--------------------+--------------------+--------------------+----------+--------+--------------------+--------------------+-------------------+
+|         NZ|(215)-899-8881| 888949898|female|    gisborne| west coast|7595 portsmouth d...|25552|63bf51b5501d40acd...|     rose|robinson| miss|  hottie|(651)-773-4801|https://randomuse...|https://randomuse...|https://randomuse...|1391099183|DB9pnvxc|e286c3d943ae31394...|dd3abc54641539a67...|         bigduck753|
+|         NZ|(646)-195-8441|1206772213|female|   whanganui|marlborough|   5144 deans avenue|39796|d9048dca2e5ab8a31...|     evie|   jones|   ms|  maxmax|(928)-272-0602|https://randomuse...|https://randomuse...|https://randomuse...| 975915041|TkSLBw3X|6b336f2219ee03338...|3167f1c95ea79b586...|      smallsnake392|
+|         NZ|(214)-691-3969| 366756687|female|      napier|    waikato|  3940 balmoral road|68689|588d36aee12bbcb08...|elizabeth|   zhang| miss|  colton|(650)-779-2671|https://randomuse...|https://randomuse...|https://randomuse...|1062280144|KLb8Mwu9|58016cbae5e51a824...|ed66ee7ecf4f3417f...|       lazymouse790|
+|         NZ|(472)-912-4315| 921485956|female|   whanganui|    waikato|     7950 tay street|15477|640d00b1dfac87ba5...|    alice|  thomas|  mrs|    zack|(413)-510-9561|https://randomuse...|https://randomuse...|https://randomuse...|1242579989|auKBbyFb|0245c9cd09c737069...|d826eccd815fdebdd...|beautifulgorilla612|
+|         NZ|(545)-041-4246| 959563413|female|    tauranga|     tasman|    6457 botany road|97209|04303f90639b48168...|     maia|anderson|  mrs|  blanca|(381)-278-6649|https://randomuse...|https://randomuse...|https://randomuse...|1283146323|mEZgZe5G|586b280eabc6146dc...|910ee307bad6bdd32...|    brownladybug664|
+|         NZ|(041)-639-9187| 956774266|female|   whanganui|   gisborne|   1901 tamaki drive|26242|8cadb2b13260bb43e...|     ella|   singh| miss| fantasy|(009)-820-2100|https://randomuse...|https://randomuse...|https://randomuse...| 983054254|ZzivthXL|a857cd1b9a7e45a31...|41c4286068cbec8dc...|       heavybird824|
+|         NZ|(669)-574-7059| 826362498|female|invercargill|   gisborne| 1139 kilmore street|21701|cbd700a89b7c135aa...|   ariana|    chen|   ms|33333333|(382)-556-7017|https://randomuse...|https://randomuse...|https://randomuse...|1239273245|Wn4jJlSd|563c9f7898a5b0dfa...|d08d9fe5155352dca...|       blackfrog720|
+|         NZ|(968)-161-4749|1408526712|female|  lower hutt|  southland|   9134 manukau road|59023|81c812419086cba19...|    indie|   patel|   ms|  sandy1|(083)-825-4372|https://randomuse...|https://randomuse...|https://randomuse...| 968584179|kOB1Adcg|6b93f49707fca8641...|84cd5ba8dd7ff4695...|     orangepanda370|
+|         NZ|(161)-786-5553|1017131160|  male|     porirua|   taranaki|  4935 guyton street|23404|3312b23045780daaf...|   jayden|robinson|   mr|  ripley|(036)-051-6926|https://randomuse...|https://randomuse...|https://randomuse...|1176360020|nxcz7KU0|30f027ea518716c23...|69d9e5d51c0491fc5...|     goldentiger762|
+|         NZ|(260)-472-4091| 630951026|female|      nelson|   auckland|3995 st aubyn street|21938|8fa06f1e101e6de62...|    maria|   smith| miss|    1967|(801)-238-1455|https://randomuse...|https://randomuse...|https://randomuse...| 918438333|5sPDzsjn|9f9946b8983c980c2...|195203a8838836890...|     lazymeercat321|
++-----------+--------------+----------+------+------------+-----------+--------------------+-----+--------------------+---------+--------+-----+--------+--------------+--------------------+--------------------+--------------------+----------+--------+--------------------+--------------------+-------------------+
+
+root
+ |-- nationality: string (nullable = true)
+ |-- cell: string (nullable = true)
+ |-- dob: long (nullable = true)
+ |-- gender: string (nullable = true)
+ |-- city: string (nullable = true)
+ |-- state: string (nullable = true)
+ |-- street: string (nullable = true)
+ |-- zip: long (nullable = true)
+ |-- md5: string (nullable = true)
+ |-- first: string (nullable = true)
+ |-- last: string (nullable = true)
+ |-- title: string (nullable = true)
+ |-- password: string (nullable = true)
+ |-- phone: string (nullable = true)
+ |-- large: string (nullable = true)
+ |-- medium: string (nullable = true)
+ |-- thumbnail: string (nullable = true)
+ |-- registered: long (nullable = true)
+ |-- salt: string (nullable = true)
+ |-- sha1: string (nullable = true)
+ |-- sha256: string (nullable = true)
+ |-- username: string (nullable = true)
+
+
+Process finished with exit code 0
